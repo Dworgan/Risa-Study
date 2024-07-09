@@ -1,0 +1,14 @@
+D:\Work\RisaIT\Study\C# Masterclass\Excersices\ToDoList\ToDoList\Calculator\bin\Debug\net8.0\Calculator.exe
+D:\Work\RisaIT\Study\C# Masterclass\Excersices\ToDoList\ToDoList\Calculator\bin\Debug\net8.0\Calculator.deps.json
+D:\Work\RisaIT\Study\C# Masterclass\Excersices\ToDoList\ToDoList\Calculator\bin\Debug\net8.0\Calculator.runtimeconfig.json
+D:\Work\RisaIT\Study\C# Masterclass\Excersices\ToDoList\ToDoList\Calculator\bin\Debug\net8.0\Calculator.dll
+D:\Work\RisaIT\Study\C# Masterclass\Excersices\ToDoList\ToDoList\Calculator\bin\Debug\net8.0\Calculator.pdb
+D:\Work\RisaIT\Study\C# Masterclass\Excersices\ToDoList\ToDoList\Calculator\obj\Debug\net8.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\RisaIT\Study\C# Masterclass\Excersices\ToDoList\ToDoList\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfoInputs.cache
+D:\Work\RisaIT\Study\C# Masterclass\Excersices\ToDoList\ToDoList\Calculator\obj\Debug\net8.0\Calculator.AssemblyInfo.cs
+D:\Work\RisaIT\Study\C# Masterclass\Excersices\ToDoList\ToDoList\Calculator\obj\Debug\net8.0\Calculator.csproj.CoreCompileInputs.cache
+D:\Work\RisaIT\Study\C# Masterclass\Excersices\ToDoList\ToDoList\Calculator\obj\Debug\net8.0\Calculator.dll
+D:\Work\RisaIT\Study\C# Masterclass\Excersices\ToDoList\ToDoList\Calculator\obj\Debug\net8.0\refint\Calculator.dll
+D:\Work\RisaIT\Study\C# Masterclass\Excersices\ToDoList\ToDoList\Calculator\obj\Debug\net8.0\Calculator.pdb
+D:\Work\RisaIT\Study\C# Masterclass\Excersices\ToDoList\ToDoList\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
+D:\Work\RisaIT\Study\C# Masterclass\Excersices\ToDoList\ToDoList\Calculator\obj\Debug\net8.0\ref\Calculator.dll
